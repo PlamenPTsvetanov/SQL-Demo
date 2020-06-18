@@ -1,0 +1,1 @@
+A small demo of my SQL skills. This demo consists of table building and different commands.
